@@ -18,7 +18,7 @@
 Запуск:
 
 1. Скачайте образ: `docker pull <ваше_имя_пользователя_dockerhub>/webgoat:1.0-ru-es`
-2. Запустите контейнер: `docker run -p 8080:8080 boyarvaryag1/webgoat:ru-es`
+2. Запустите контейнер: `docker run -p 8080:8080 boyarvaryag1/webgoat:1.0-ru-es`
 3. Откройте в браузере: `http://localhost:8080`
 
 ---
@@ -36,7 +36,7 @@ Características:
 Puesta en marcha:
 
 1. Descarga la imagen: `docker pull boyarvaryag1/webgoat:1.0-ru-es`
-2. Inicia el contenedor: `docker run -p 8080:8080 <ваше_имя_пользователя_dockerhub>/webgoat:ru-es`
+2. Inicia el contenedor: `docker run -p 8080:8080 <ваше_имя_пользователя_dockerhub>/webgoat:1.0-ru-es`
 3. Abre en tu navegador: `http://localhost:8080`
 
 ---
@@ -54,7 +54,7 @@ Features:
 Launch:
 
 1. Download the image: `docker pull boyarvaryag1/webgoat:1.0-ru-es`
-2. Run the container: `docker run -p 8080:8080 <ваше_имя_пользователя_dockerhub>/webgoat:ru-es`
+2. Run the container: `docker run -p 8080:8080 <ваше_имя_пользователя_dockerhub>/webgoat:1.0-ru-es`
 3. Open in browser: `http://localhost:8080`
 
 Note: Replace `<ваше_имя_пользователя_dockerhub>` with your actual Docker Hub username.
